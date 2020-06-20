@@ -1,3 +1,4 @@
-Created for nonprofit Boston SCORES to automate transfer of student information from an overall database to workplace file, specifically to
-grab information for those 60-70 students enrolling in the summer academy from a trove of 400+ provided by the
-Boston Public School system.
+As an intern at Boston SCORES in summer 2019, I was tasked with locating and pasting contact and parent information for 60-70 students 
+enrolled in the summer academy. This information was searchable in the Boston Public School database, scattered in a trove of the 400+ 
+students enrolled overall in the district. I was able to export this data to a csv file. The code herein finds the relevant student data
+for the roster and puts it all into a new csv, which can then be exported to a spreadsheet for practical use.
